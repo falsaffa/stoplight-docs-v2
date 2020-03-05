@@ -1,4 +1,4 @@
-# COnnecting your VCS Account
+# Connecting your VCS Account
 
 ## Github
 
