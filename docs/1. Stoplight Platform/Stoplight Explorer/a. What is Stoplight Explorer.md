@@ -1,1 +1,1 @@
-# What is Stoplight Explorer
+# What is Stoplight Explorer?
