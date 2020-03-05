@@ -2,4 +2,4 @@
 
 ## Pulling from a Repo
 
-## Pushing from a Repo
+## Pushing to a Repo
